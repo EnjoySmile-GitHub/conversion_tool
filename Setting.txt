@@ -1,0 +1,8 @@
+処理終了コード
+End_Code:exit
+
+改行コード
+New_Line:0000
+
+ファイル保存パス
+Save_File_Path:C:\My_Program\Sorce\Python\フォルダー
